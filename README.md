@@ -1,4 +1,4 @@
-# Pong
+# Conway's Game of Life
 
 ## How to Compile and Run
 
@@ -35,9 +35,9 @@ pong-game/
 │   ├── game.ts
 │   ├── input.ts
 │   ├── main.ts
+│   ├── patterns.ts
 │   ├── renderer.ts
-│   ├── types.ts
-│   └── utils.ts
+│   └── types.ts
 ├── index.html
 ├── package.json
 ├── tsconfig.json
