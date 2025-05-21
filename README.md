@@ -29,7 +29,7 @@ pnpm preview
 ## Project Structure
 
 ```plaintext
-pong-game/
+/
 ├── src/
 │   ├── config.ts
 │   ├── game.ts
